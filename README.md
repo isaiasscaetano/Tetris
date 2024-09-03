@@ -1,4 +1,5 @@
 Tetris em Kotlin com Jetpack Compose
+
 Este projeto é uma implementação do clássico jogo Tetris, desenvolvido em Kotlin usando Jetpack Compose. O objetivo é recriar a experiência do Tetris, oferecendo funcionalidades como movimento das peças, detecção de colisões, remoção de linhas completas, e níveis de dificuldade crescente.
 
 Funcionalidades
